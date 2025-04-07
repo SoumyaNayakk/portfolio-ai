@@ -24,7 +24,7 @@ Before using this app boilerplate, make sure you have the following:
 
 ## Configuration
 
-To configure the app boilerplate to work with your Qdrant Managed Cloud Service account, you need to add your credentials to the `.env` file. Follow these steps:
+To configure the app to work with your Qdrant Managed Cloud Service account, you need to add your credentials to the `.env` file. Follow these steps:
 
 
 ```
