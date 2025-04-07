@@ -15,7 +15,7 @@ This repository contains an app  with a graphical user interface (GUI) that conn
 
 Before using this app boilerplate, make sure you have the following:
 
-- Python 3.x installed on your system.
+- Google collab and postman account.
 - An active Qdrant Managed Cloud Service account.
 - Your Qdrant Managed Cloud Service credentials.
 
